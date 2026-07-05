@@ -2,6 +2,8 @@
 
 A modern web application built with **Azure Static Web Apps**, **Azure Functions (Python)**, and **Azure AI Language Service** that demonstrates multiple Natural Language Processing (NLP) capabilities in one application.
 
+[Live link](https://lemon-beach-0e147a100.7.azurestaticapps.net)
+
 ## ✨ Features
 
 - 🌍 **Language Detection**
